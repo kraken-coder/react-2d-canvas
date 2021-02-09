@@ -19,8 +19,8 @@
     "dotenv-webpack": "^1.7.0",
     "konva": "^4.2.0",
     "netlify-cli": "^2.40.0",
-    "react": "^16.12.0",
-    "react-dom": "^16.12.0",
+    "react": "^16.14.0",
+    "react-dom": "^16.14.0",
     "react-konva": "^16.12.0-0"
   },
   "devDependencies": {
